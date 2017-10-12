@@ -52,3 +52,21 @@
 .margin-sister {
   margin: 20px;
 }
+.project-sister p:first-child {
+  color: blue;
+}
+.wiki-language-tab {
+  margin-left: 100px;
+}
+.saturn {
+  float: left;
+  margin-right: 18px;
+}
+.thaler{
+  float: right;
+  margin-left: 10px;
+}
+.nikita{
+  float: right;
+  margin-left: 10px;
+}
