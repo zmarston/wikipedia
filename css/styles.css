@@ -16,6 +16,39 @@
 .color-dark-green {
   background-color: #a3bfb1;
 }
+.color-blue {
+  background-color: #cedff2;
+}
+.color-dark-blue {
+  background-color: #a3b0bf;
+}
+.color-purple {
+  background-color: #ddcef2;
+}
+.color-dark-purple{
+  background-color: #afa3bf;
+}
 .padding {
-  padding: 10px;
+  padding: 4px;
+}
+.project-sister {
+  line-height: 6px;
+  padding: 5px;
+}
+.left-nav-bar {
+  background-color: #ddd;
+  float: left;
+  margin-right: 15px;
+}
+.w-l-scale {
+  width: 150px;;
+}
+.other-shit-w {
+  margin-left: 100px;
+}
+.w-sister-tab {
+  margin-left: 100px;
+}
+.margin-sister {
+  margin: 20px;
 }
