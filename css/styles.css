@@ -44,20 +44,12 @@
 .w-l-scale {
   width: 150px;;
 }
-.other-shit-w {
-  margin-left: 100px;
-}
-.w-sister-tab {
-  margin-left: 100px;
-}
+
 .margin-sister {
   margin: 20px;
 }
 .project-sister p:first-child {
   color: blue;
-}
-.wiki-language-tab {
-  margin-left: 100px;
 }
 .saturn {
   float: left;
@@ -79,4 +71,38 @@
   float: left;
   margin-bottom: 10px;
   margin-right: 10px;
+}
+.other-list-one {
+  border-top: 2px;
+  border-style: solid;
+  border-color: black;
+  border-right: none;
+  border-bottom: none;
+  border-left: none;
+}
+.sister-par {
+  border-top: 2px;
+  border-style: solid;
+  border-color: black;
+  border-right: none;
+  border-bottom: none;
+  border-left: none;
+}
+.wiki-language-tab p {
+  border-top: 2px;
+  border-style: solid;
+  border-color: black;
+  border-right: none;
+  border-bottom: none;
+  border-left: none;
+}
+.list {
+  line-height: 15px;
+}
+
+.nav-panel {
+  height: 100px;
+  position: absolute;
+top: 0;
+bottom: 0;
 }
