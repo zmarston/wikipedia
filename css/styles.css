@@ -39,6 +39,7 @@
   background-color: #ddd;
   float: left;
   margin-right: 15px;
+  padding-left: 20px;
 }
 .w-l-scale {
   width: 150px;;
@@ -69,4 +70,13 @@
 .nikita{
   float: right;
   margin-left: 10px;
+}
+.optima {
+  float: right;
+  margin-left: 10px;
+}
+.safran {
+  float: left;
+  margin-bottom: 10px;
+  margin-right: 10px;
 }
